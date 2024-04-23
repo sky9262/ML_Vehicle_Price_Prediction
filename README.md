@@ -1,8 +1,8 @@
 # Vehicle Price Prediction: Machine Learning Models for Car Valuation
 
-This project aims to build a machine learning model to predict the price of vehicles based on various features. The dataset used for this project is sourced from Kaggle, containing information about different cars including their selling price, age, fuel type, seller type, and transmission type.
+This project aims to build a Machine Learning model to predict the price of vehicles based on various features. The dataset used for this project is sourced from Kaggle, containing information about different cars including their selling price, age, fuel type, seller type, and transmission type.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![DataSet Visualization](Average%20Selling%20Price%20by%20Year%20and%20Fuel%20Type.png)
 
 
 ## Overview
@@ -66,11 +66,9 @@ Each model's performance is evaluated using the coefficient of determination (RÂ
 Below are the Images of result after training with 3 diffreent algorithms:
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![True vs Predicted Values (Using LinearRegression)](True%20vs%20Predicted%20Values%20(Using%20LinearRegression).png)
 
+![True vs Predicted Values (Using Lasso Regression)](True%20vs%20Predicted%20Values%20(Using%20Lasso%20Regression).png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![True vs Predicted Values (Using RandomForestRegressor)](True%20vs%20Predicted%20Values(Using%20RandomForestRegressor).png)
 
